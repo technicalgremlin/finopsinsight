@@ -1,0 +1,4 @@
+baseURL = 'https://finopsinsight.com/'
+languageCode = 'en-us'
+title = 'FinOps Insight'
+theme = 'PaperMod'
