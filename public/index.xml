@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FinOps Insight</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on FinOps Insight</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Jan 2026 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to FinOps Insight</title>
+      <link>http://localhost:1313/posts/welcome/</link>
+      <pubDate>Wed, 21 Jan 2026 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      <description>&lt;p&gt;Welcome to my blog about FinOps and cloud cost optimization!&lt;/p&gt;
+&lt;p&gt;This is my first post. I&amp;rsquo;ll be sharing insights about:&lt;/p&gt;
+&lt;p&gt;- Cloud cost management&lt;/p&gt;
+&lt;p&gt;- FinOps best practices&lt;/p&gt;
+&lt;p&gt;- Cost optimization strategies&lt;/p&gt;
+&lt;p&gt;Stay tuned for more content!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Blog Post</title>
+      <link>http://localhost:1313/posts/my-first-real-post/</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-real-post/</guid>
+      <description>&lt;p&gt;# Welcome to FinOps Insight&lt;/p&gt;
+&lt;p&gt;This is my **first blog post** about FinOps! I&amp;rsquo;m excited to share my thoughts on cloud cost optimization.&lt;/p&gt;
+&lt;p&gt;## What is FinOps?&lt;/p&gt;
+&lt;p&gt;FinOps is a practice that brings *financial accountability* to cloud spending. Here are the key principles:&lt;/p&gt;
+&lt;p&gt;- Visibility into spending&lt;/p&gt;
+&lt;p&gt;- Cost optimization&lt;/p&gt;
+&lt;p&gt;- Team collaboration&lt;/p&gt;
+&lt;p&gt;You can [learn more here](&lt;a href=&#34;https://finops.org&#34;&gt;https://finops.org&lt;/a&gt;).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;FinOps is about making money, not just saving it.&amp;rdquo; - Anonymous&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>
